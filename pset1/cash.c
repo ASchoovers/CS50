@@ -45,8 +45,4 @@ int main(void)
     }
     // Print total coins
     printf("Total Coins: %i\n", change);
-
-
-
-
 }
